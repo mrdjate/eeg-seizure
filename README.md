@@ -2,7 +2,7 @@
 
 Python 3.11+ repo for EDF-based seizure detection using MNE and scikit-learn.
 
-This project started in december 2023. When I wanted, for medical and personnal reason, to undertand and build a minimal, reproducible baseline for labeled EEG seizure detection. It stayed on my machine for that long. In 2026, it was updated to a clean foundation for fast experimentation and clinical relevancy threshold tuning.
+This project started in december 2023 when I wanted, for medical and personnal reason, to undertand and build a minimal, reproducible baseline for labeled EEG seizure detection. It stayed on my machine for that long. In 2026, it was updated to a clean foundation for fast experimentation and clinical relevancy threshold tuning.
 
 Expected data layout:
 
